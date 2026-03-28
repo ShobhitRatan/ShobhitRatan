@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-My name is Shobhit Ratan. In Undergrad, I completed a BBA in Accounting and Computer Information Systems from Zicklin School of Business, Baruch College, CUNY. For Graduate Studies, I pursued an MS in Information Systems with a concentration in Data Analytics from Baruch College. In order to learn Full Stack Development I also completed the Software Engineering Immersive Program at Flatiron School's Manhattan Campus. 
+My name is Shobhit Ratan. In Undergrad, I completed a BBA in Accounting and Computer Information Systems from Zicklin School of Business, Baruch College, CUNY. For Graduate Studies, I pursued an MS in Information Systems with a concentration in Data Analytics from Baruch College. Along with full time work, pursuing a 2nd Masters MSCS in Computer Science specializing in AI from Georgia Tech. Will graduate in December 2026. In order to learn Full Stack Development I also completed the Software Engineering Immersive Program at Flatiron School's Manhattan Campus. 
 <h2>My Interests / Hobbies</h2>
 <ul>
   <li>Golf</li>
